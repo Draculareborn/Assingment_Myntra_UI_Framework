@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Functional Test Execution Started ]]>
+    </line>
+    <line>
+      <![CDATA[filtersTest Started ]]>
+    </line>
+    <line>
+      <![CDATA[Home Furnishings Page is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Categories search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for categories sent]]>
+    </line>
+    <line>
+      <![CDATA[Category checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Brand search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for brand sent]]>
+    </line>
+    <line>
+      <![CDATA[Brand checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Brand name verified]]>
+    </line>
+    <line>
+      <![CDATA[filtersTest Passed ]]>
+    </line>
+    <line>
+      <![CDATA[wishlistTest Started ]]>
+    </line>
+    <line>
+      <![CDATA[Home Furnishings Page is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Categories search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for categories sent]]>
+    </line>
+    <line>
+      <![CDATA[Category checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Brand search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for brand sent]]>
+    </line>
+    <line>
+      <![CDATA[Brand checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on first product]]>
+    </line>
+    <line>
+      <![CDATA[Wishlist button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login Page verified]]>
+    </line>
+    <line>
+      <![CDATA[wishlistTest Passed ]]>
+    </line>
+    <line>
+      <![CDATA[bagTest Started ]]>
+    </line>
+    <line>
+      <![CDATA[Home Furnishings Page is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Categories search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for categories sent]]>
+    </line>
+    <line>
+      <![CDATA[Category checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Brand search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for brand sent]]>
+    </line>
+    <line>
+      <![CDATA[Brand checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on first product]]>
+    </line>
+    <line>
+      <![CDATA[Add to bag button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Bag icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Ok, Got it clicked]]>
+    </line>
+    <line>
+      <![CDATA[Product present in bag verified]]>
+    </line>
+    <line>
+      <![CDATA[bagTest Passed ]]>
+    </line>
+    <line>
+      <![CDATA[removeProductTest Started ]]>
+    </line>
+    <line>
+      <![CDATA[Home Furnishings Page is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Categories search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for categories sent]]>
+    </line>
+    <line>
+      <![CDATA[Category checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Brand search icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Search input for brand sent]]>
+    </line>
+    <line>
+      <![CDATA[Brand checkbox selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on first product]]>
+    </line>
+    <line>
+      <![CDATA[Add to bag button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Bag icon clicked]]>
+    </line>
+    <line>
+      <![CDATA[Ok, Got it clicked]]>
+    </line>
+    <line>
+      <![CDATA[Product present in bag verified]]>
+    </line>
+    <line>
+      <![CDATA[Remove button on bag page clicked]]>
+    </line>
+    <line>
+      <![CDATA[Remove button on dialog clicked]]>
+    </line>
+    <line>
+      <![CDATA[Bag is empty verified]]>
+    </line>
+    <line>
+      <![CDATA[removeProductTest Passed ]]>
+    </line>
+    <line>
+      <![CDATA[searchboxTest Started ]]>
+    </line>
+    <line>
+      <![CDATA[Home Furnishings Page is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Search input for search box sent]]>
+    </line>
+    <line>
+      <![CDATA[Search input submitted]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on first product]]>
+    </line>
+    <line>
+      <![CDATA[Product name is same verified]]>
+    </line>
+    <line>
+      <![CDATA[searchboxTest Passed ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-07T13:42:08 IST" name="Suite" finished-at="2023-09-07T13:44:41 IST" duration-ms="153775">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T13:42:08 IST" name="Functional Test" finished-at="2023-09-07T13:44:41 IST" duration-ms="153775">
+      <class name="com.myntra.test.MyntraHomeFurnishingsPageTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:42:08 IST" name="openBrowser" finished-at="2023-09-07T13:42:22 IST" duration-ms="14131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="filtersTest()[pri:1, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:42:22 IST" name="filtersTest" description="Test for appling catgories and brand" finished-at="2023-09-07T13:42:29 IST" duration-ms="7055" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[filtersTest Started ]]>
+            </line>
+            <line>
+              <![CDATA[Home Furnishings Page is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Categories search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for categories sent]]>
+            </line>
+            <line>
+              <![CDATA[Category checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Brand search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for brand sent]]>
+            </line>
+            <line>
+              <![CDATA[Brand checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Brand name verified]]>
+            </line>
+            <line>
+              <![CDATA[filtersTest Passed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- filtersTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:42:29 IST" name="openBrowser" finished-at="2023-09-07T13:42:41 IST" duration-ms="12490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="wishlistTest()[pri:2, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:42:41 IST" name="wishlistTest" description="Test for login page displayed when clicked on whishlist for not signed in user" finished-at="2023-09-07T13:43:01 IST" duration-ms="19329" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[wishlistTest Started ]]>
+            </line>
+            <line>
+              <![CDATA[Home Furnishings Page is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Categories search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for categories sent]]>
+            </line>
+            <line>
+              <![CDATA[Category checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Brand search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for brand sent]]>
+            </line>
+            <line>
+              <![CDATA[Brand checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on first product]]>
+            </line>
+            <line>
+              <![CDATA[Wishlist button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Login Page verified]]>
+            </line>
+            <line>
+              <![CDATA[wishlistTest Passed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- wishlistTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:43:01 IST" name="openBrowser" finished-at="2023-09-07T13:43:16 IST" duration-ms="15076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="bagTest()[pri:3, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:43:16 IST" name="bagTest" description="Test for adding product to bag" finished-at="2023-09-07T13:43:37 IST" duration-ms="21278" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[bagTest Started ]]>
+            </line>
+            <line>
+              <![CDATA[Home Furnishings Page is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Categories search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for categories sent]]>
+            </line>
+            <line>
+              <![CDATA[Category checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Brand search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for brand sent]]>
+            </line>
+            <line>
+              <![CDATA[Brand checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on first product]]>
+            </line>
+            <line>
+              <![CDATA[Add to bag button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Bag icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Ok, Got it clicked]]>
+            </line>
+            <line>
+              <![CDATA[Product present in bag verified]]>
+            </line>
+            <line>
+              <![CDATA[bagTest Passed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bagTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:43:37 IST" name="openBrowser" finished-at="2023-09-07T13:43:49 IST" duration-ms="11495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="removeProductTest()[pri:4, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:43:49 IST" name="removeProductTest" description="Test for removing product from bag" finished-at="2023-09-07T13:44:14 IST" duration-ms="25685" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[removeProductTest Started ]]>
+            </line>
+            <line>
+              <![CDATA[Home Furnishings Page is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Categories search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for categories sent]]>
+            </line>
+            <line>
+              <![CDATA[Category checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Brand search icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Search input for brand sent]]>
+            </line>
+            <line>
+              <![CDATA[Brand checkbox selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on first product]]>
+            </line>
+            <line>
+              <![CDATA[Add to bag button clicked]]>
+            </line>
+            <line>
+              <![CDATA[Bag icon clicked]]>
+            </line>
+            <line>
+              <![CDATA[Ok, Got it clicked]]>
+            </line>
+            <line>
+              <![CDATA[Product present in bag verified]]>
+            </line>
+            <line>
+              <![CDATA[Remove button on bag page clicked]]>
+            </line>
+            <line>
+              <![CDATA[Remove button on dialog clicked]]>
+            </line>
+            <line>
+              <![CDATA[Bag is empty verified]]>
+            </line>
+            <line>
+              <![CDATA[removeProductTest Passed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- removeProductTest -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:44:14 IST" name="openBrowser" finished-at="2023-09-07T13:44:29 IST" duration-ms="14172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="searchboxTest()[pri:5, instance:com.myntra.test.MyntraHomeFurnishingsPageTest@865dd6]" started-at="2023-09-07T13:44:29 IST" name="searchboxTest" description="Test for search box on home furnishing page" finished-at="2023-09-07T13:44:41 IST" duration-ms="12843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[searchboxTest Started ]]>
+            </line>
+            <line>
+              <![CDATA[Home Furnishings Page is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Search input for search box sent]]>
+            </line>
+            <line>
+              <![CDATA[Search input submitted]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on first product]]>
+            </line>
+            <line>
+              <![CDATA[Product name is same verified]]>
+            </line>
+            <line>
+              <![CDATA[searchboxTest Passed ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchboxTest -->
+      </class> <!-- com.myntra.test.MyntraHomeFurnishingsPageTest -->
+    </test> <!-- Functional Test -->
+  </suite> <!-- Suite -->
+</testng-results>
