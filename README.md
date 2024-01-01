@@ -22,7 +22,7 @@ To get started we need to perform the following steps:
 6. maven-surefire-plugin : Version 3.0.0-M5
 7. java: Version 11
 
-## _Test cases covered_
+## _Scenarios covered_
 1. Validate applying filters for categories and brands and check the results.
 2. Validate adding 1st product to the Wishlist from the filtered product without the user logging in.
 3. Validate adding 1st product to the Bag from the filtered product without the user logging in.
@@ -33,12 +33,36 @@ To get started we need to perform the following steps:
 1. Import the .project in Eclipse as a maven project.
 2. Check all dependencies are downloaded and no error is shown.
 3. We can run the test in two ways either as TestNG test or as a Maven Test
-    - To run as a TestNG test, right-click on myntratestng.xml -> Run As -> TestNG Suite.
-    - To run as Maven test, right-click on pom.xml -> Run As -> Maven test.
+  - To run as a TestNG test,
+```bash
+  myntratestng.xml-> Right Click -> Run As -> TestNG Suite.
+```
+  - To run as Maven test,
+```bash
+  pom.xml-> Right Click -> Run As -> Maven Test.
+```
+  
+
+
 4. After the execution is completed the test report for both types of test can be seen as
-    - For the TestNG test report, go to test-output -> right-click on emailable-report.html -> and open with WebBrowser.
-    - For Maven test report, go to target -> surefire-reports -> right click on emailable-report.html -> and open with WebBrowser.
+  - For the TestNG test report,
+```bash
+  test-output-> Right-click on emailable-report.html -> Open with WebBrowser
+  ```
+
+  - For Maven test report, go to 
+```bash
+  target-> surefire-reports -> Right-click on emailable-report.html -> Open with WebBrowser
+  ```
 
 ## _Contributions_
 
-1. Framework and Automation Test - Bhaskar (bhaskarreborn@gmail.com)
+- Framework and Automation Test - Bhaskar (bhaskarreborn@gmail.com)
+
+## _Authors_
+
+- [@bhaskar](https://github.com/Draculareborn)
+
+## _🔗 Links_
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskarqa/)
